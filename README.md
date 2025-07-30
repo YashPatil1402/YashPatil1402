@@ -1,44 +1,53 @@
 ![Logo](assests/llogo.png)
 
-<h1 align="center">Hi 👋, I'm Yash Patil</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone, I'm Yash Patil</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpatil1402&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatil1402" /> </p>
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&lines=💻+Crafting+Code%2C+Building+Dreams;+💻+Welcome+to+My+GitHub+Universe!)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpatil1402" alt="yashpatil1402" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [LBS - JAVA](https://github.com/YashPatil1402/JavaProject1-LibraryManagementSystem)
-
-- 🌱 I’m currently learning **AI-ML,Web Dev**
-
-- 👯 I’m looking to collaborate on **Software Developers**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YashPatil1402/portfolio](https://github.com/YashPatil1402/portfolio)
-
-- 📝 I regularly write articles on [ff](ff)
-
-- 💬 Ask me about **AI-ML**
-
-- 📫 How to reach me **yash.work03@outlook.com**
-
-- ⚡ Fun fact **Nothing**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-patil-1736702b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-patil-1736702b1" height="30" width="40" /></a>
-<a href="https://instagram.com/yashpatil.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashpatil.14" height="30" width="40" /></a>
 </p>
 
-<img src="assests/side.png" align="right" width="150" alt="Logo">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 👨‍💻 Working on Web Development & Software Development Projects
+- 📖 Currently learning Web Development and AI/ML
+- 🛠️ Passionate about building impactful solutions
+- 👥 Open to collaboration
+- 💼 Available for freelance or internship opportunities
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpatil1402&show_icons=true&locale=en&layout=compact" alt="yashpatil1402" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpatil1402&show_icons=true&locale=en" alt="yashpatil1402" /></p>
+<div align="start">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpatil1402&" alt="yashpatil1402" /></p>
+![](https://komarev.com/ghpvc/?username=YashPatil1402&style=flat&color=brightgreen)
 
+</div>
+
+<div align="start">
+
+<a href="mailto:yash.work02@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?logo=microsoft-outlook&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-patil-1736702b1/)
+<a href="https://lnkd.in/exZW6TAe" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-1A1A1A.svg?logo=vercel&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashPatil1402&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashPatil1402&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashPatil1402&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashPatil1402&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YashPatil1402&theme=github_dark)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YashPatil1402&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashPatil1402&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/YashPatil1402/github-readme-activity-graph)
+
+</div>
