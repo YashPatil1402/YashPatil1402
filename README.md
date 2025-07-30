@@ -26,11 +26,15 @@
 
 <div align="start">
 
-<a href="mailto:yash.work02@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?logo=microsoft-outlook&logoColor=white"></a>
+<a href="mailto:yash.work03@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?logo=microsoft-outlook&logoColor=white"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-patil-1736702b1/)
 <a href="https://lnkd.in/exZW6TAe" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1A1A1A.svg?logo=vercel&logoColor=white">
 </a>
+<a href="https://instagram.com/yashpatil.14" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" />
+  </a>
+
 
 </div>
 
