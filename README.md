@@ -1,3 +1,3 @@
-![Logo](assests/Black and white Geometric Gamming Channel Youtube Banner.png)
+![Logo](assests/llogo.png)
 
 
